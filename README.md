@@ -10,4 +10,5 @@ Jama masjid
 Humayu Tomb
 Akshardham Temple
 Purana Qila
-Rashtrapati Bhavan
+Rashtrapati Bhavan.
+And also added some detail about why they are famous
